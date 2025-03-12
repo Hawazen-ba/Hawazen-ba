@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**Hawazen-ba/Hawazen-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineering student with a love for building innovative solutions and solving complex problems. I enjoy working on a variety of projects, from web development to algorithms and everything in between. My goal is to continuously learn, grow, and contribute to the tech community.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Languages**: Python, Java, JavaScript, C++, SQL
+- **Web Development**: HTML, CSS, React, Node.js, Express
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code, IntelliJ IDEA
+- **Other**: Data Structures, Algorithms, REST APIs, Agile Development
+
+## 🌱 What I'm Currently Learning
+
+- Exploring cloud technologies (AWS, Azure)
+- Diving deeper into deep learning and AI
+- Improving my skills in system design and architecture & design patterns
+
+## 📫 Let's Connect
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: your.email@example.com
+
+🚀 Check out my projects below!
 -->
