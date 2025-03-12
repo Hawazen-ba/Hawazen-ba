@@ -18,8 +18,8 @@ I'm a passionate software engineering student with a love for building innovativ
 - Improving my skills in system design and architecture & design patterns
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
+- **LinkedIn**: www.linkedin.com/in/hawazen-ben-aicha-66766226a
+- **Email**: hawazenbenaicha0@gmail.com
 
 🚀 Check out my projects below!
 -->
